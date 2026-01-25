@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/196148386?v=4" 
+  <img src="https://github.com/BorisKlimchenko.png" 
        width="180px" 
        style="border-radius: 50%; border: 3px solid #FFD700; box-shadow: 0px 0px 20px rgba(255, 215, 0, 0.3);">
   
@@ -11,7 +11,7 @@
     <b>Research Focus:</b> <i>World Models (JEPA), Latent Space Physics, Generative Pipelines.</i>
   </p>
   
-  <a href="https://www.youtube.com/@BorisKlimchenko">
+  <a href="https://www.youtube.com/channel/UC_wq5ASqVRPkqu_P1iTk_tA">
     <img src="https://img.shields.io/badge/YouTube-Synthetic_Lab-red?style=for-the-badge&logo=youtube">
   </a>
 </div>
