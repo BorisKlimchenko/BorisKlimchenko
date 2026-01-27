@@ -1,14 +1,15 @@
+```html
 <div align="center">
   <img src="https://github.com/BorisKlimchenko.png" 
        width="160px" 
-       style="border-radius: 50%; border: 4px solid #FFD700; box-shadow: 0px 0px 25px rgba(255, 215, 0, 0.4);">
+       style="border-radius: 50%; border: 4px solid #FFD700; box-shadow: 0px 0px 30px rgba(255, 215, 0, 0.3);">
 
   <h1 style="font-size: 2.5em; margin-bottom: 0;">Boris Klimchenko</h1>
-  
+   
   <h3 style="font-weight: normal; color: #888;">🧬 Synthetic Media Architect | R&D Engineer</h3>
 
   <p align="center">
-    <b>Research Focus:</b><br>
+    <b>Research Vector:</b><br>
     Latent Space Physics • Generative Pipelines • Cognitive Architectures (JEPA)
   </p>
 
@@ -20,9 +21,9 @@
 <hr>
 
 ### 📡 System Status
-> *"LLMs predict the next token. We aim to map the architecture of meaning."*
+> *"The map is not the territory. The token is not the meaning."*
 
-* **Current Lab:** `SMA-01 Core Engine` (Semantic Motion Adapter).
+* **Current Instance:** `SMA-01 Core Engine` (Semantic Motion Adapter).
 * **Mission:** Refactoring generative prototypes into scalable, object-oriented R&D protocols.
 * **Active Sprint:** Implementing **Adaptive Hardware Strategy** & **Determinism** in Latent Diffusion pipelines.
 
@@ -30,27 +31,27 @@
 
 ### 🛠️ Technical Arsenal
 
-| **Domain** | **Stack & Tools** |
+| **Manifold** | **Stack & Instrumentation** |
 | :--- | :--- |
 | **Core Frameworks** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white) |
-| **Generative R&D** | `Diffusers` • `AnimateDiff` • `ControlNet` • `Latent Space Navigation` |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?logo=linux&logoColor=black) ![Colab](https://img.shields.io/badge/Google_Colab-Pro-F9AB00?logo=googlecolab&logoColor=white) • `Docker` (Learning) |
-| **Methodology** | **First Principles** • **Ockham's Razor** • **PEP-8 Standards** |
+| **Generative R&D** | `Diffusers` • `AnimateDiff` • `ControlNet` • `Latent Navigation` |
+| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white) • `Google Colab Pro` |
+| **Cognitive Algebra** | **First Principles** • **Ockham's Razor** • **SOLID Architecture** |
 
 ---
 
-### 🧬 Featured Protocol: [JEPA-Organic-Protocol]
+### 🧬 Featured Protocol: [JEPA-Synthetic-Lab]
 
-*Currently under heavy refactoring for v3.0 release.*
+*Status: v3.1 Stable (Reconstructed)*
 
-Developing a modular engine for visualizing semantic prompts via latent motion.
-* **Objective:** Decoupling logic from configuration (SOLID principles).
-* **Key Tech:** Dynamic VRAM optimization (T4 vs A100 heuristics), deterministic seeding, structured logging.
+An object-oriented engine for visualizing semantic concepts via latent motion.
+* **Objective:** Visualizing the "JEPA vs LLM" dichotomy through fluid dynamics.
+* **Key Tech:** Dynamic VRAM optimization, Motion-Reactive Inference, JSON-driven choreography.
 
 ---
 
 <div align="center">
   <p style="font-size: 0.8em; color: #666;">
-    <i>"Do not confuse the map with the territory." — Alfred Korzybski</i>
+    <i>SMA-01 Core Online. Waiting for input vectors...</i>
   </p>
 </div>
