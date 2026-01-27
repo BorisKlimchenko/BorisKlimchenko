@@ -1,3 +1,7 @@
+#### B. GitHub Profile (`BorisKlimchenko/README.md`)
+
+Твой профиль выглядит отлично. Я лишь немного подтянул структуру для лучшей читаемости и добавил акцент на "Core Competency".
+
 ```html
 <div align="center">
   <img src="https://github.com/BorisKlimchenko.png" 
