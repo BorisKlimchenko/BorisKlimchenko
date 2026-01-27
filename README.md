@@ -1,18 +1,11 @@
-#### B. GitHub Profile (`BorisKlimchenko/README.md`)
-
-Твой профиль выглядит отлично. Я лишь немного подтянул структуру для лучшей читаемости и добавил акцент на "Core Competency".
-
-```html
 <div align="center">
-  <img src="https://github.com/BorisKlimchenko.png" 
-       width="160px" 
-       style="border-radius: 50%; border: 4px solid #FFD700; box-shadow: 0px 0px 30px rgba(255, 215, 0, 0.3);">
+  <img src="https://github.com/BorisKlimchenko.png" width="180">
+  
+  <h1>Boris Klimchenko</h1>
+  
+  <h3>🧬 Synthetic Media Architect | R&D Engineer</h3>
 
-  <h1 style="font-size: 2.5em; margin-bottom: 0;">Boris Klimchenko</h1>
-   
-  <h3 style="font-weight: normal; color: #888;">🧬 Synthetic Media Architect | R&D Engineer</h3>
-
-  <p align="center">
+  <p>
     <b>Research Vector:</b><br>
     Latent Space Physics • Generative Pipelines • Cognitive Architectures (JEPA)
   </p>
@@ -22,7 +15,7 @@
   </a>
 </div>
 
-<hr>
+<br>
 
 ### 📡 System Status
 > *"The map is not the territory. The token is not the meaning."*
@@ -44,7 +37,7 @@
 
 ---
 
-### 🧬 Featured Protocol: [JEPA-Synthetic-Lab]
+### 🧬 Featured Protocol: [JEPA-Synthetic-Lab](https://github.com/BorisKlimchenko/JEPA-Synthetic-Lab)
 
 *Status: v3.1 Stable (Reconstructed)*
 
@@ -55,7 +48,5 @@ An object-oriented engine for visualizing semantic concepts via latent motion.
 ---
 
 <div align="center">
-  <p style="font-size: 0.8em; color: #666;">
-    <i>SMA-01 Core Online. Waiting for input vectors...</i>
-  </p>
+  <p><i>SMA-01 Core Online. Waiting for input vectors...</i></p>
 </div>
