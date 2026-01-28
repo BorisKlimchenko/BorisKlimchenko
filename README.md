@@ -37,13 +37,12 @@
 
 ---
 
-### 🧬 Featured Protocol: [JEPA-Synthetic-Lab](https://github.com/BorisKlimchenko/JEPA-Synthetic-Lab)
+### 🧬 Featured Protocol: SMA-01 Synthetic Lab
 
-*Status: v3.1 Stable (Reconstructed)*
-
-An object-oriented engine for visualizing semantic concepts via latent motion.
-* **Objective:** Visualizing the "JEPA vs LLM" dichotomy through fluid dynamics.
-* **Key Tech:** Dynamic VRAM optimization, Motion-Reactive Inference, JSON-driven choreography.
+Status: Stable (Refactored)
+Engine: Object-oriented visualization of semantic concepts via latent motion.
+Objective: Visualizing the "JEPA vs LLM" dichotomy through fluid dynamics.
+Key Tech: Dynamic VRAM optimization, Motion-Reactive Inference, JSON-driven choreography.
 
 ---
 
