@@ -18,7 +18,7 @@
 <br>
 
 ### 📡 System Status
-> *"The map is not the territory. The token is not the meaning."*
+> *"The map is not the territory. The token is not the meaning."* — Alfred Korzybski
 
 * **Current Instance:** `SMA-01 Core Engine` (Semantic Motion Adapter).
 * **Mission:** Refactoring generative prototypes into scalable, object-oriented R&D protocols.
@@ -37,12 +37,12 @@
 
 ---
 
-### 🧬 Featured Protocol: SMA-01 Synthetic Lab
+### 🧬 Featured Protocol: <a href="https://github.com/BorisKlimchenko/JEPA-Synthetic-Lab">SMA-01 Synthetic Lab</a>
 
-Status: Stable (Refactored)
-Engine: Object-oriented visualization of semantic concepts via latent motion.
-Objective: Visualizing the "JEPA vs LLM" dichotomy through fluid dynamics.
-Key Tech: Dynamic VRAM optimization, Motion-Reactive Inference, JSON-driven choreography.
+**Status:** Stable (Refactored)  
+**Engine:** Object-oriented visualization of semantic concepts via latent motion.  
+**Objective:** Visualizing the "JEPA vs LLM" dichotomy through fluid dynamics.  
+**Key Tech:** Dynamic VRAM optimization, Motion-Reactive Inference, JSON-driven choreography.
 
 ---
 
