@@ -30,11 +30,10 @@
 
 | **Domain** | **Stack & Instrumentation** |
 | :--- | :--- |
-| **Deep Learning** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white) `Diffusers` `xFormers` |
-| **Generative R&D** | `AnimateDiff` • `ControlNet` • `Stable Diffusion` • `Inference Optimization` |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white) `CUDA Profiling` • `Google Colab Pro` |
-| **Architecture** | **OOP Patterns** • **SOLID Principles** • **Strategy Pattern** • **Clean Architecture** |
-
+| **Deep Learning** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white) ![Diffusers](https://img.shields.io/badge/🤗_Diffusers-v0.25+-FFD21E?logo=huggingface&logoColor=black) ![xFormers](https://img.shields.io/badge/Meta-xFormers-blue) |
+| **Generative R&D** | ![AnimateDiff](https://img.shields.io/badge/Model-AnimateDiff-orange) ![ControlNet](https://img.shields.io/badge/CV-ControlNet-4682B4) ![Stable Diffusion](https://img.shields.io/badge/SD-v1.5%2FXL-4B0082) ![Optimization](https://img.shields.io/badge/Task-Inference_Opt-green) |
+| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white) ![CUDA](https://img.shields.io/badge/NVIDIA-CUDA_Profiling-76B900?logo=nvidia&logoColor=white) ![Colab](https://img.shields.io/badge/Google-Colab_Pro-F9AB00?logo=googlecolab&logoColor=white) |
+| **Architecture** | ![OOP](https://img.shields.io/badge/Pattern-OOP-lightgrey) ![SOLID](https://img.shields.io/badge/Principle-SOLID-lightgrey) ![Strategy](https://img.shields.io/badge/Design-Strategy_Pattern-9cf) ![Clean Arch](https://img.shields.io/badge/Arch-Clean_Code-success) |
 ---
 
 ### 🧬 Featured Project: <a href="https://github.com/BorisKlimchenko/JEPA-Synthetic-Lab">Adaptive-Motion-Lab</a>
