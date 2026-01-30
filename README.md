@@ -3,49 +3,53 @@
   
   <h1>Boris Klimchenko</h1>
   
-  <h3>🧬 Synthetic Media Architect | R&D Engineer</h3>
+  <h3>🚀 ML Systems Engineer | Generative AI Specialist</h3>
 
   <p>
-    <b>Research Vector:</b><br>
-    Latent Space Physics • Generative Pipelines • Cognitive Architectures (JEPA)
+    <b>Core Focus:</b><br>
+    High-Performance Inference • Latent Diffusion Pipelines • Modular Software Architecture
   </p>
 
   <a href="https://www.youtube.com/channel/UC_wq5ASqVRPkqu_P1iTk_tA">
-    <img src="https://img.shields.io/badge/YouTube-Synthetic_Lab-red?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/YouTube-Dev_Logs-red?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
 
 <br>
 
-### 📡 System Status
+### 📡 Current Status
 > *"The map is not the territory. The token is not the meaning."* — Alfred Korzybski
 
-* **Current Instance:** `SMA-01 Core Engine` (Semantic Motion Adapter).
-* **Mission:** Refactoring generative prototypes into scalable, object-oriented R&D protocols.
-* **Active Sprint:** Implementing **Adaptive Hardware Strategy** & **Determinism** in Latent Diffusion pipelines.
+* **Role:** Developing hardware-aware inference engines for Open Source models.
+* **Objective:** Bridging the gap between experimental Research code and Production-grade engineering.
+* **Active Sprint:** Implementing **Adaptive Hardware Strategy** (HAL) & **Deterministic Sampling** for Latent Diffusion pipelines.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Engineering Stack
 
-| **Manifold** | **Stack & Instrumentation** |
+| **Domain** | **Stack & Instrumentation** |
 | :--- | :--- |
-| **Core Frameworks** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white) |
-| **Generative R&D** | `Diffusers` • `AnimateDiff` • `ControlNet` • `Latent Navigation` |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white) • `Google Colab Pro` |
-| **Cognitive Algebra** | **First Principles** • **Ockham's Razor** • **SOLID Architecture** |
+| **Deep Learning** | ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white) `Diffusers` `xFormers` |
+| **Generative R&D** | `AnimateDiff` • `ControlNet` • `Stable Diffusion` • `Inference Optimization` |
+| **Infrastructure** | ![Linux](https://img.shields.io/badge/Linux-Bash-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?logo=docker&logoColor=white) `CUDA Profiling` • `Google Colab Pro` |
+| **Architecture** | **OOP Patterns** • **SOLID Principles** • **Strategy Pattern** • **Clean Architecture** |
 
 ---
 
-### 🧬 Featured Protocol: <a href="https://github.com/BorisKlimchenko/JEPA-Synthetic-Lab">SMA-01 Synthetic Lab</a>
+### 🧬 Featured Project: <a href="https://github.com/BorisKlimchenko/JEPA-Synthetic-Lab">Adaptive-Motion-Lab</a>
 
-**Status:** Stable (Refactored)  
-**Engine:** Object-oriented visualization of semantic concepts via latent motion.  
-**Objective:** Visualizing the "JEPA vs LLM" dichotomy through fluid dynamics.  
-**Key Tech:** Dynamic VRAM optimization, Motion-Reactive Inference, JSON-driven choreography.
+**Status:** v1.0 Stable (Refactored)  
+**Type:** Hardware-Aware Inference Engine for AnimateDiff.  
+**Engineering Challenge:** Solving the "works on my machine" problem for heavy diffusion models across heterogeneous hardware (T4 vs A100).
+
+**Key Implementation Details:**
+* **Hardware Abstraction Layer (HAL):** Runtime detection of GPU Architecture (Ampere vs Turing).
+* **Strategy Pattern:** Dynamic injection of Attention mechanisms (Native SDPA vs Memory Efficient xFormers).
+* **VRAM Safety:** Automatic resolution scaling and CPU-offload based on available memory.
 
 ---
 
 <div align="center">
-  <p><i>SMA-01 Core Online. Waiting for input vectors...</i></p>
+  <p><i>Building tools for the next generation of synthetic media.</i></p>
 </div>
