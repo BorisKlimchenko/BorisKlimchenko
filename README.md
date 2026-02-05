@@ -36,7 +36,7 @@
 | **Architecture** | ![OOP](https://img.shields.io/badge/Pattern-OOP-lightgrey) ![SOLID](https://img.shields.io/badge/Principle-SOLID-lightgrey) ![Strategy](https://img.shields.io/badge/Design-Strategy_Pattern-9cf) ![Clean Arch](https://img.shields.io/badge/Arch-Clean_Code-success) |
 ---
 
-### 🧬 Featured Project: <a href="https://github.com/BorisKlimchenko/JEPA-Synthetic-Lab">Adaptive-Motion-Lab</a>
+### 🧬 Featured Project: <a href="https://github.com/BorisKlimchenko/Adaptive-Motion-Lab">Adaptive-Motion-Lab</a>
 
 **Status:** v1.0 Stable (Refactored)  
 **Type:** Hardware-Aware Inference Engine for AnimateDiff.  
